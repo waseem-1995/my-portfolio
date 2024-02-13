@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/waseemkhan.portfolio/static/css/main.153b6b79.css",
-    "main.js": "/waseemkhan.portfolio/static/js/main.1ba75225.js",
-    "static/js/787.e94b3587.chunk.js": "/waseemkhan.portfolio/static/js/787.e94b3587.chunk.js",
-    "static/media/Mohd_Waseem_Khan_Resume.pdf": "/waseemkhan.portfolio/static/media/Mohd_Waseem_Khan_Resume.2486072017638e1e0954.pdf",
-    "index.html": "/waseemkhan.portfolio/index.html",
-    "main.153b6b79.css.map": "/waseemkhan.portfolio/static/css/main.153b6b79.css.map",
-    "main.1ba75225.js.map": "/waseemkhan.portfolio/static/js/main.1ba75225.js.map",
-    "787.e94b3587.chunk.js.map": "/waseemkhan.portfolio/static/js/787.e94b3587.chunk.js.map"
+    "main.css": "/static/css/main.153b6b79.css",
+    "main.js": "/static/js/main.5f81ca96.js",
+    "static/js/787.e94b3587.chunk.js": "/static/js/787.e94b3587.chunk.js",
+    "static/media/Mohd_Waseem_Khan_Resume.pdf": "/static/media/Mohd_Waseem_Khan_Resume.2486072017638e1e0954.pdf",
+    "index.html": "/index.html",
+    "main.153b6b79.css.map": "/static/css/main.153b6b79.css.map",
+    "main.5f81ca96.js.map": "/static/js/main.5f81ca96.js.map",
+    "787.e94b3587.chunk.js.map": "/static/js/787.e94b3587.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.153b6b79.css",
-    "static/js/main.1ba75225.js"
+    "static/js/main.5f81ca96.js"
   ]
 }
